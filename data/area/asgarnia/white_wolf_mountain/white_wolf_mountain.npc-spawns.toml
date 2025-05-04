@@ -17,4 +17,6 @@ spawns = [
   { id = "white_wolf_2", x = 2856, y = 3508, members = true },
   { id = "white_wolf_2", x = 2848, y = 3487, members = true },
   { id = "white_wolf_2", x = 2850, y = 3484, members = true },
+  { id = "ice_warriors", x = 2847, y = 3514, members = true },
+  { id = "ice_warriors", x = 2850, y = 3512, members = true },
 ]
